@@ -1,0 +1,3 @@
+dist: focal
+language: bash
+script: echo xx
